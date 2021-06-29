@@ -1,6 +1,4 @@
-# ImmersifyNativePlugin
-
-#How To Use
+# ImmersifyNativePlugin - How To Use
 
 In order to build the project the 'native plugin' has to be located in the same folder as the unity project folder (UnityImmersifyPlayer). 
 If you have cloned the public unity project, the native plugin folder should be located in the same folder as 'UnityImmersifyPlayer' and 'Spin License Tools'.
