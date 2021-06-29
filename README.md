@@ -12,5 +12,5 @@ With the latest CMake installed, enter the following command into the shell:
 
 cmake -G "Visual Studio 15 2017 Win64" -B .
 
-Now you should be able to build the project and automatically copy the generated .dll into the unity project.
+Now you should be able to build the project and automatically copy the generated .dll into the unity project. Keep in mind that there should be no unity instance running, otherwise the copy process doesn't complete.
 
