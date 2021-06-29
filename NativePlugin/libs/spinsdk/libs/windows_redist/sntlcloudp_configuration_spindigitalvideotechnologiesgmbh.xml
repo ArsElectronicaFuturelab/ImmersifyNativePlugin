@@ -1,0 +1,14 @@
+<Configuration>
+	<YPSaddress value="https://fra01-he.prod.sentinelcloud.com/YPServer"/>
+	<CustomerList>
+		<Customer id="4605c9f6-0fa8-40be-b9f3-016048c70f2b">
+			<Entitlements>
+				<Entitlement>
+					<EID value="06d5698c-122f-43bf-877a-afb9086872d3"/>
+				</Entitlement>
+			</Entitlements>
+		</Customer>
+	</CustomerList>
+	<FingerprintFriendlyName value="PFLTEMP02"/>
+</Configuration>
+
